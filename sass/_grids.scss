@@ -1,0 +1,13 @@
+// Requirements
+// ============
+
+@import "susy";
+
+$susy: (
+  columns: 12,
+  gutters: 2,
+  gutter-position: inside
+);
+
+.col-3 { @include span(3 of 15); }
+.col-5 { @include span(5 of 15); }
