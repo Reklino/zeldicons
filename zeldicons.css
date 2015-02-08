@@ -1,0 +1,114 @@
+@font-face {
+	font-family: 'zeldicons';
+	src:url('fonts/zeldicons.eot?k7sebm');
+	src:url('fonts/zeldicons.eot?#iefixk7sebm') format('embedded-opentype'),
+		url('fonts/zeldicons.woff?k7sebm') format('woff'),
+		url('fonts/zeldicons.ttf?k7sebm') format('truetype'),
+		url('fonts/zeldicons.svg?k7sebm#zeldicons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="equip-"], [class*=" equip-"] {
+	font-family: 'zeldicons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.link { font-size: 32px; }
+.link-lg { font-size: 150%; }
+.link-2x { font-size: 200%; }
+.link-3x { font-size: 300%; }
+.link-4x { font-size: 400%; }
+.link-5x { font-size: 500%; }
+.link-6x { font-size: 600%; }
+.link-7x { font-size: 700%; }
+
+.equip-bombos:before {
+	content: "\e600";
+}
+
+.equip-bombs:before {
+	content: "\e601";
+}
+
+.equip-book-of-mudora:before {
+	content: "\e602";
+}
+
+.equip-boomerang:before {
+	content: "\e603";
+}
+
+.equip-bow-and-arrow:before {
+	content: "\e604";
+}
+
+.equip-bug-net:before {
+	content: "\e605";
+}
+
+.equip-cane-of-byrna:before {
+	content: "\e606";
+}
+
+.equip-ether:before {
+	content: "\e607";
+}
+
+.equip-fire-rod:before {
+	content: "\e608";
+}
+
+.equip-hookshot:before {
+	content: "\e609";
+}
+
+.equip-ice-rod:before {
+	content: "\e60a";
+}
+
+.equip-lamp:before {
+	content: "\e60b";
+}
+
+.equip-magic-hammer:before {
+	content: "\e60c";
+}
+
+.equip-magic-powder:before {
+	content: "\e60d";
+}
+
+.equip-ocarina:before {
+	content: "\e60e";
+}
+
+.equip-potion:before {
+	content: "\e60f";
+}
+
+.equip-quake:before {
+	content: "\e610";
+}
+
+.equip-shield:before {
+	content: "\e611";
+}
+
+.equip-sword:before {
+	content: "\e612";
+}
+
+.equip-tunic:before {
+	content: "\e613";
+}
+
