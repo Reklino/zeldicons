@@ -143,6 +143,7 @@ pre, .btn {
 	background: $secondary;
 	cursor: pointer;
 	&:hover {
+		color: $bg;
 		background: $primary;
 		border-color: $primary;
 	}

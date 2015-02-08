@@ -252,34 +252,35 @@ pre, .btn {
 }
 /* line 145, ../sass/style.scss */
 .btn:hover {
+  color: #faf7ef;
   background: #826571;
   border-color: #826571;
 }
 
-/* line 151, ../sass/style.scss */
+/* line 152, ../sass/style.scss */
 #guide {
   text-align: center;
 }
-/* line 153, ../sass/style.scss */
+/* line 154, ../sass/style.scss */
 #guide #hero-guide {
   width: 45%;
 }
-/* line 157, ../sass/style.scss */
+/* line 158, ../sass/style.scss */
 #guide .step header {
   text-transform: uppercase;
   margin-bottom: 2em;
 }
-/* line 161, ../sass/style.scss */
+/* line 162, ../sass/style.scss */
 #guide .step p {
   text-align: left;
 }
 
-/* line 167, ../sass/style.scss */
+/* line 168, ../sass/style.scss */
 footer {
   text-align: center;
   padding-bottom: 3em;
 }
-/* line 168, ../sass/style.scss */
+/* line 169, ../sass/style.scss */
 footer #hearts {
   width: 125px;
 }
