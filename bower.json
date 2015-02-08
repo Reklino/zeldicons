@@ -1,0 +1,24 @@
+{
+  "name": "zeldicons",
+  "version": "1.0.0",
+  "homepage": "http://reklino.github.io/zeldicons/",
+  "authors": [
+    "Reklino <yakub89@gmail.com>"
+  ],
+  "description": "It's dangerous to go alone! Take these.",
+  "main": "zeldicons.css",
+  "keywords": [
+    "zelda",
+    "link",
+    "icons",
+    "font"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
