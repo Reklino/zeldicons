@@ -55,6 +55,13 @@ p {
 	line-height: 1.5em;
 }
 
+a {
+	color: $secondary;
+	&:hover {
+		color: $primary;
+	}
+}
+
 /*-----  End of Typography  ------*/
 
 
